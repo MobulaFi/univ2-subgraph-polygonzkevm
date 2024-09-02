@@ -1,0 +1,8 @@
+{
+	"Polygon zkEVM": {
+		"Factory": {
+			"address": "0x4B9f4d2435Ef65559567e5DbFC1BbB37abC43B57",
+			"startBlock": 300
+		}
+	}
+}
